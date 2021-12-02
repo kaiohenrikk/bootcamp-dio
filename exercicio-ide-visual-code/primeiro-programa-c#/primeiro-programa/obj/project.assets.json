@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaiod\\OneDrive\\Documentos\\Bootcamps\\bootcamp-dio\\bootcamp-dio\\exercicio-ide-visual-code\\Primeiro\\Primeiro\\Primeiro.csproj",
+      "projectUniqueName": "C:\\Users\\kaiod\\OneDrive\\Documentos\\Bootcamps\\bootcamp-dio\\bootcamp-dio\\exercicio-ide-visual-code\\primeiro-programa-c#\\primeiro-programa\\Primeiro.csproj",
       "projectName": "Primeiro",
-      "projectPath": "C:\\Users\\kaiod\\OneDrive\\Documentos\\Bootcamps\\bootcamp-dio\\bootcamp-dio\\exercicio-ide-visual-code\\Primeiro\\Primeiro\\Primeiro.csproj",
+      "projectPath": "C:\\Users\\kaiod\\OneDrive\\Documentos\\Bootcamps\\bootcamp-dio\\bootcamp-dio\\exercicio-ide-visual-code\\primeiro-programa-c#\\primeiro-programa\\Primeiro.csproj",
       "packagesPath": "C:\\Users\\kaiod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaiod\\OneDrive\\Documentos\\Bootcamps\\bootcamp-dio\\bootcamp-dio\\exercicio-ide-visual-code\\Primeiro\\Primeiro\\obj\\",
+      "outputPath": "C:\\Users\\kaiod\\OneDrive\\Documentos\\Bootcamps\\bootcamp-dio\\bootcamp-dio\\exercicio-ide-visual-code\\primeiro-programa-c#\\primeiro-programa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kaiod\\AppData\\Roaming\\NuGet\\NuGet.Config",
