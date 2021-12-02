@@ -1,5 +1,5 @@
 # Bootcamp DIO: Decola Tech 2ª Edição
-Desafios, testes e exercícios propostos no bootcamp.
+## Desafios e Testes
 
-* [Exercício de comandos Git e Markdown]
+* [Exercício de Git/GitHub e Markdown]
 * [Desafio 1 - Criação e Organização do Repositório Git/Github]
