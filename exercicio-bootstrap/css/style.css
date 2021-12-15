@@ -1,0 +1,39 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+.navbar {
+    background-color: #6ec003;
+}
+
+.quem-somos, .servicos {
+    background-color: #14a9ea;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #f28d06;
+    color: white;
+}
+
+.servicos img {
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: #6ec003;
+}
