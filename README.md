@@ -7,3 +7,5 @@
 * [Exercício: Criação de um contador utilizando Vanilla JavaScript](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/exercicio-intro-javascript)
 
 * [Exercício: Calculadora de Javascript puro](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/sintaxe-basica-em-javascript)
+
+* [Exercício: Função de comparação de números]()
