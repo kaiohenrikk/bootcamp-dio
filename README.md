@@ -8,4 +8,4 @@
 
 * [Exercício: Calculadora de Javascript puro](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/sintaxe-basica-em-javascript)
 
-* [Exercício: Função de comparação de números]()
+* [Exercício: Função de comparação de números](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/sintaxe-e-operadores)
