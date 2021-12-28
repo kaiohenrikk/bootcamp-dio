@@ -12,4 +12,6 @@
 
 * [Exercício: Palíndromo e Substituição de Números Pares](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/variaveis-e-tipos)
 
+* [Exercícios: Array de Nome de Alunos Aprovados e Cálculo de Idade utilizando Apply e Call](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/funcoes)
+
 * [Exercícios introdutórios ao React.js: Configuration, Renderization, Components e Lifecycle](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
