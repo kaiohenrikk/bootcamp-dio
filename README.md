@@ -10,4 +10,6 @@
 
 * [Exercício: Função de comparação de números](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/sintaxe-e-operadores)
 
+* [Exercício: Palíndromo e Substituição de Números Pares](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/variaveis-e-tipos)
+
 * [Exercícios introdutórios ao React.js: Configuration, Renderization, Components e Lifecycle](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
