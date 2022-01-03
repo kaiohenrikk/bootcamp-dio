@@ -14,6 +14,6 @@
 
 * [Exercícios: Array de Nome de Alunos Aprovados e Cálculo de Idade utilizando Apply e Call](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/funcoes)
 
-* [Exercícios: Map (retornando nomes de admins) e Set (retornando valores únicos)]()
+* [Exercícios: Map (retornando nomes de admins) e Set (retornando valores únicos)](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/colecoes)
 
 * [Exercícios introdutórios ao React.js: Configuration, Renderization, Components e Lifecycle](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
