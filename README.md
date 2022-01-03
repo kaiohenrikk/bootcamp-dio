@@ -20,6 +20,6 @@
 
 * [Exercícios: API "catAPI" (Javascript Assíncrono)](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/javascript-assincrono)
 
-* [Exercícios: Conta Bancária (Orientação a Objetos - Classes)]()
+* [Exercícios: Conta Bancária (Orientação a Objetos - Classes)](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/orientacao-a-objetos)
 
 * [Exercícios introdutórios ao React.js: Configuration, Renderization, Components e Lifecycle](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
