@@ -12,14 +12,14 @@
 
 * [Exercício: Palíndromo e Substituição de Números Pares](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/variaveis-e-tipos)
 
-* [Exercícios: Array de Nome de Alunos Aprovados e Cálculo de Idade utilizando Apply e Call](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/funcoes)
+* [Exercício: Array de Nome de Alunos Aprovados e Cálculo de Idade utilizando Apply e Call](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/funcoes)
 
-* [Exercícios: Map (retornando nomes de admins) e Set (retornando valores únicos)](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/colecoes)
+* [Exercício: Map (retornando nomes de admins) e Set (retornando valores únicos)](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/colecoes)
 
-* [Exercícios: Validação de Erros por Tipos](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/debugging-e-error-handling/validacao-de-erros-por-tipos)
+* [Exercício: Validação de Erros por Tipos](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/debugging-e-error-handling/validacao-de-erros-por-tipos)
 
-* [Exercícios: API "catAPI" (Javascript Assíncrono)](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/javascript-assincrono)
+* [Exercício: API "catAPI" (Javascript Assíncrono)](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/javascript-assincrono)
 
-* [Exercícios: Conta Bancária (Orientação a Objetos - Classes)](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/orientacao-a-objetos)
+* [Exercício: Conta Bancária (Orientação a Objetos - Classes)](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/orientacao-a-objetos)
 
-* [Exercícios introdutórios ao React.js: Configuration, Renderization, Components e Lifecycle](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
+* [Exercício introdutórios ao React.js: Configuration, Renderization, Components e Lifecycle](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
