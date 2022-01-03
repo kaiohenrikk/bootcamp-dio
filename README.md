@@ -18,4 +18,6 @@
 
 * [Exercícios: Validação de Erros por Tipos](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/debugging-e-error-handling/validacao-de-erros-por-tipos)
 
+* [Exercícios: API "catAPI"]()
+
 * [Exercícios introdutórios ao React.js: Configuration, Renderization, Components e Lifecycle](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
