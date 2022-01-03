@@ -16,6 +16,6 @@
 
 * [Exercícios: Map (retornando nomes de admins) e Set (retornando valores únicos)](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/colecoes)
 
-* [Exercícios: Validação de Erros por Tipos]()
+* [Exercícios: Validação de Erros por Tipos](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/debugging-e-error-handling/validacao-de-erros-por-tipos)
 
 * [Exercícios introdutórios ao React.js: Configuration, Renderization, Components e Lifecycle](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
