@@ -24,4 +24,4 @@
 
 * [Exercício: Map, Filter e Reduce](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/map-filter-e-reduce)
 
-* [Exercício introdutórios ao React.js: Configuration, Renderization, Components e Lifecycle](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
+* [Exercício (React.js): Configuration, Renderization, Components e Lifecycle](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
