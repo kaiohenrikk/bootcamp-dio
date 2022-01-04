@@ -22,4 +22,6 @@
 
 * [Exercício: Conta Bancária (Orientação a Objetos - Classes)](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/orientacao-a-objetos)
 
+* [Exercício: Map, Filter e Reduce]()
+
 * [Exercício introdutórios ao React.js: Configuration, Renderization, Components e Lifecycle](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
