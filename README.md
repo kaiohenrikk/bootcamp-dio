@@ -24,6 +24,6 @@
 
 * [Exercício: Map, Filter e Reduce](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/map-filter-e-reduce)
 
-* [Exercício: Light Mode/Dark Mode]()
+* [Exercício: Light Mode/Dark Mode](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/manipulado-a-dom-com-javascript)
 
 * [Exercício (React.js): Configuration, Renderization, Components e Lifecycle](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
