@@ -15,7 +15,7 @@ fetch("https://imdb8.p.rapidapi.com/auto-complete?q=horror", {
         const movie = `<div class="item">
         <img class= "box-filme" src = "${poster}">
         </div>`;
-        document.querySelector('.').innerHTML += movie;
+        document.querySelector('.item').innerHTML += movie;
     })
 })
 .catch(err => {
