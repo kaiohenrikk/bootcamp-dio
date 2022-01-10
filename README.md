@@ -26,6 +26,6 @@
 
 * [Exercício: Light Mode/Dark Mode](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/manipulado-a-dom-com-javascript)
 
-* [Desafio 2 - Recriando a Interface da Netflix]()
+* [Desafio 2 - Recriando a Interface da Netflix](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/desafio-interface-netflix)
 
 * [Exercício (React.js): Configuration, Renderization, Components e Lifecycle](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
