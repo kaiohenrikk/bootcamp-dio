@@ -28,4 +28,4 @@
 
 * [Desafio 2 - Recriando a Interface da Netflix](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/desafio-interface-netflix)
 
-* [Exercício: React.js](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
+* [Exercício - React.js: Components, Configuration, Lifecycle e Renderization](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
