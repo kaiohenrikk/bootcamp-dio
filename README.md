@@ -30,4 +30,4 @@
 
 * [Exercício - React.js: Components, Configuration, Lifecycle e Renderization](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
 
-* [Exercício - React.js: Trabalhando com Componentes](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/introducao-ao-react)
+* [Exercício - React.js: Trabalhando com Componentes](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/react-trabalhando-com-componentes)
