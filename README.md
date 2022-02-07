@@ -32,4 +32,4 @@
 
 * [Exercício - React.js: Trabalhando com Componentes](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/react-trabalhando-com-componentes)
 
-* [Exercício - React.js: Trabalhando com Hooks]()
+* [Exercício - React.js: Trabalhando com Hooks](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/react-trabalhando-com-states-e-effects/hooks)
