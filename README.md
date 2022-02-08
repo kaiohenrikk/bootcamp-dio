@@ -33,3 +33,5 @@
 * [Exercício - React.js: Trabalhando com Componentes](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/react-trabalhando-com-componentes)
 
 * [Exercício - React.js: Trabalhando com Hooks](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/react-trabalhando-com-states-e-effects/hooks)
+
+* [Exercício - Node.js: Início de projeto](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/instalando-e-configurando-seu-ambiente-node.js/aula-00)
