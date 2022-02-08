@@ -35,3 +35,5 @@
 * [Exercício - React.js: Trabalhando com Hooks](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/react-trabalhando-com-states-e-effects/hooks)
 
 * [Exercício - Node.js: Início de projeto](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/instalando-e-configurando-seu-ambiente-node.js/aula-00)
+
+* [Exercício - Node.js: Arquitetura Rest com Node.js](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/explorando-o-estilo-arquitetural-rest-com-node.js)
