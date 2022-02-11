@@ -37,3 +37,9 @@
 * [Exercício - Node.js: Início de projeto](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/instalando-e-configurando-seu-ambiente-node.js/aula-00)
 
 * [Exercício - Node.js: Arquitetura Rest com Node.js](https://github.com/kaiohenrikk/bootcamp-dio/tree/main/explorando-o-estilo-arquitetural-rest-com-node.js)
+
+* [Projeto: Integrando um Backend em Node.js com um Frontend em React para um E-commerce](https://github.com/kaiohenrikk/hardWare_)
+
+### API Utilizado para realização do último projeto proposto
+
+* [API DioShopping](https://github.com/kaiohenrikk/api-dioshopping)
